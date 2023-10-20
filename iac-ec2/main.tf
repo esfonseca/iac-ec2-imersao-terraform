@@ -102,3 +102,5 @@ resource "aws_security_group" "security_group" {
 output "ip_ec2" {
     value = aws_instance.web.public_ip
 }
+
+https://youtu.be/EeyQLe1JnPM?si=6yP6Sd8Mq4hXKxJc&t=5723
